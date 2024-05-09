@@ -1,0 +1,37 @@
+{
+  "connection_key": "request",
+  "result": true,
+  "redis_key": "abcdefg",
+  "filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+  "api_status_code": 200,
+  "runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+  "business_partner": null,
+  "service_label": "INCOTERMS",
+  "api_type": "reads",
+  "message": {
+    "Incoterms": null,
+    "Text": [
+      {
+        "Incoterms": "CFR",
+        "Language": "JA",
+        "IncotermsName": "運賃込み",
+        "CreationDate": "0000-00-00",
+        "LastChangeDate": "0000-00-00",
+        "IsMarkedForDeletion": false
+      }
+    ]
+  },
+  "api_schema": "DPFMIncotermsReads",
+  "accepter": [
+    "Text"
+  ],
+  "deleted": false,
+  "sql_update_result": null,
+  "sql_update_error": "",
+  "subfunc_result": null,
+  "subfunc_error": "",
+  "exconf_result": null,
+  "exconf_error": "",
+  "api_processing_result": true,
+  "api_processing_error": ""
+}
